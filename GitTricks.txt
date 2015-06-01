@@ -1,0 +1,21 @@
+git init
+git add
+Git commit
+
+
+git diff
+
+
+git push   -----to remote repo.
+
+
+
+git commit -m 'first commit' 
+
+
+git remote add nickname git@github.com:yourgithubname/yourgithubproject.git  
+                        git@github.com:XiangJi/Socket.git
+
+git push -u origin master
+
+add.   commit   push
